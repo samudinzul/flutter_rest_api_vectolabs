@@ -10,5 +10,5 @@ Building a REST api app with Flutter.
 
 ### Screenshots
 
-<img src="gifeditor_20191012_031448-min.gif" height="1050em" width="850em" /> 
+<img src="gifeditor_20191012_031448-min.gif" height="850em" width="650em" /> 
 
