@@ -120,10 +120,10 @@ class DetailsState extends State<DetailsPage> {
   @override
   void initState() {
     super.initState();
-    _fetchLessons();
+    _fetchDetails();
   }
 
-  _fetchLessons() async {
+  _fetchDetails() async {
     
     final urlString = 'http://staging.vectolabs.com/search?search='+ datass.id.toString();
     print("Fetching: " + urlString);
