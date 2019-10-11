@@ -1,6 +1,16 @@
-# new_app
+# ANSWERING VECTOLABS TECHNICAL QUESTION NO. 1
 
-A new Flutter project.
+A REST api Flutter project.
+
+# Flutter REST Api
+
+Building a WhatsApp Clone in Flutter.
+
+### Get all product data and get all product data by id.
+
+### Screenshots
+
+<img src="" height="300em" /> 
 
 ## Getting Started
 
