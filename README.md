@@ -10,7 +10,7 @@ Building a WhatsApp Clone in Flutter.
 
 ### Screenshots
 
-<img src="" height="300em" /> 
+<img src="gifeditor_20191012_031448-min.gif" height="300em" /> 
 
 ## Getting Started
 
