@@ -12,6 +12,11 @@ Building a REST api app with Flutter.
 
 <img src="gifeditor_20191012_031448-min.gif" height="300em" /> 
 
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
