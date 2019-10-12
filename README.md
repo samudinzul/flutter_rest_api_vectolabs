@@ -1,10 +1,10 @@
 # Answering Question No. 1
 
-A REST api Flutter project.
+A RESTful API Flutter project.
 
-# Flutter REST Api
+# Flutter RESTful API
 
-- Building a REST api app with Flutter.
+- Building a RESTful API app with Flutter.
 
 - Get all product data and get all product data by id.
 
