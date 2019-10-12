@@ -4,9 +4,9 @@ A REST api Flutter project.
 
 # Flutter REST Api
 
--Building a REST api app with Flutter.
+- Building a REST api app with Flutter.
 
--Get all product data and get all product data by id.
+- Get all product data and get all product data by id.
 
 
 # Screenshots
